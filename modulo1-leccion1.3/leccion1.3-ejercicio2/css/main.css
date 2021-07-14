@@ -1,0 +1,8 @@
+.cajas {
+  width: 100px;
+  min-height: 100px;
+  background-color: cornflowerblue;
+  /* display: block;  de esta forma se comportan por defecto*/
+  /* display: inline; no permite hacerlo, elimina el background */
+  display: inline-block; /* las pone unas al lado de la otras */
+}

@@ -3,10 +3,11 @@
   height: 100px;
   padding: 10px;
   border: 5px solid black;
-  box-sizing: border-box;
+
   /* al aplicar esta regla css la imagen se sale del padding
  */
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 .image1 {
   width: 100px;

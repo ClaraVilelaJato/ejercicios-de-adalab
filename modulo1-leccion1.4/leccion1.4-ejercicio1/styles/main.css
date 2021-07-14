@@ -1,0 +1,16 @@
+.content {
+  width: 500px;
+  height: 500px;
+  border: solid black 2px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  /* con esta propiedad le indico el eje principal, en linea, en este caso
+*/
+}
+.item {
+  border: solid purple 1px;
+  background-color: violet;
+  box-sizing: border-box;
+  width: 16px;
+}

@@ -1,0 +1,12 @@
+.header {
+  background-color: blueviolet;
+  width: 100%;
+  height: 50px;
+  position: fixed;
+}
+
+.container {
+  position: absolute;
+  top: 70px;
+  border: brown 1px solid;
+}

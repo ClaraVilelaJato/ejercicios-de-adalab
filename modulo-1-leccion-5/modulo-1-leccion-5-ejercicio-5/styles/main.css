@@ -1,0 +1,39 @@
+.div1 {
+  width: 500px;
+  height: 500px;
+  background-color: yellow;
+  position: absolute;
+  padding: 40px;
+  border: solid black 2px;
+  box-sizing: border-box;
+
+  top: 70px;
+  left: 350px;
+  right: 349px;
+  bottom: 70px;
+}
+.div2 {
+  height: 300px;
+  width: 300px;
+  background-color: green;
+  position: absolute;
+  padding: 75px;
+  box-sizing: border-box;
+  top: 170px;
+  left: 450px;
+  right: 400px;
+  bottom: 70px;
+}
+
+.div3 {
+  height: 150px;
+  width: 150px;
+  background-color: blue;
+  position: absolute;
+  border: 20px solid black;
+  box-sizing: border-box;
+  top: 250px;
+  left: 520px;
+  right: 400px;
+  bottom: 70px;
+}

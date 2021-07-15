@@ -1,0 +1,12 @@
+.menu {
+  height: 100px;
+  border: 2px solid purple;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.item {
+  list-style: none;
+}

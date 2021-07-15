@@ -1,0 +1,17 @@
+.content {
+  width: 1000px;
+  height: 600px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+.item {
+  width: 200;
+  height: 100px;
+  border: solid black 2px;
+}
+.picture {
+  width: 200px;
+  height: 100px;
+}

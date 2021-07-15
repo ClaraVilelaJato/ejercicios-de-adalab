@@ -1,0 +1,17 @@
+.content {
+  display: flex;
+  width: 1000px;
+  height: 312px;
+  border: solid black 1px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style: none;
+  justify-content: flex-start;
+}
+.item {
+  width: 200px;
+  height: 100px;
+  background-color: rosybrown;
+  border: solid purple 2px;
+  text-align: center;
+}

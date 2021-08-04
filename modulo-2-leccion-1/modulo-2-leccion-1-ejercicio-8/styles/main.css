@@ -1,0 +1,17 @@
+.notworking {
+  opacity: 70%;
+}
+.section-a {
+  width: 20%;
+  padding: 20px;
+  border: solid 1px black;
+  background-color: blue;
+  margin: 10px;
+}
+.section-b {
+  width: 20%;
+  padding: 20px;
+  border: solid 1px black;
+  background-color: blue;
+  margin: 10px;
+}

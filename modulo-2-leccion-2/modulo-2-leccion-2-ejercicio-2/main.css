@@ -1,0 +1,12 @@
+.main {
+  background-color: pink;
+}
+
+.main__title {
+  color: red;
+}
+
+.resalt {
+  font-weight: 900;
+  font-size: 40px;
+}

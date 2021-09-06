@@ -1,0 +1,9 @@
+.dark {
+  background-color: darkslategray;
+  color: white;
+}
+
+.bright {
+  background-color: wheat;
+  color: darkslategray;
+}
